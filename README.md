@@ -43,6 +43,10 @@ This procedure applies to all fabric materials received, inspected, and processe
 8. **Quality Inspection** - 4-point inspection standards
 9. **Documentation and Reporting** - Record-keeping requirements
 
+## Version
+
+1.0 - Initial Release (2026-05-23)
+
 ## Viewing the Document
 
 Open `index.html` in any web browser to view the formatted SOP document.
